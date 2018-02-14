@@ -30,3 +30,7 @@ public void onBearingValue(float f) {
 }
 
 ```
+
+### Demo
+
+![Alt Text](https://github.com/Bhavdip/RxCompass/blob/master/rxcompass.gif)
