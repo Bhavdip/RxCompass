@@ -2,6 +2,16 @@
 This a sample project to learn and build a compass application on Android platform.
  
 ### How to Usages
+
+
+#### Add in your project dependencies
+
+```
+dependencies {
+  
+  implementation 'com.adb.rxsensor:compass:1.0'
+}
+
 ```Android
 
 private CompassHelper mCompassHelper;
