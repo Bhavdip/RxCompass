@@ -13,6 +13,8 @@ dependencies {
 }
 ```
 
+#### Use it in your activity or fragment class
+
 ```Android
 
 private CompassHelper mCompassHelper;
