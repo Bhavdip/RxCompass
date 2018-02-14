@@ -2,6 +2,19 @@
 This a sample project to learn and build a compass application on Android platform.
  
 ### How to Usages
+
+
+#### Add in your project dependencies
+
+```
+dependencies {
+  
+  implementation 'com.adb.rxsensor:compass:1.0'
+}
+```
+
+#### Use it in your activity or fragment class
+
 ```Android
 
 private CompassHelper mCompassHelper;
@@ -30,3 +43,7 @@ public void onBearingValue(float f) {
 }
 
 ```
+
+### Demo
+
+![Alt Text](https://github.com/Bhavdip/RxCompass/blob/master/rxcompass.gif)
