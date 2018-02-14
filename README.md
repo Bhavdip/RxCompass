@@ -1,7 +1,9 @@
 # RxCompass
 This a sample project to learn and build a compass application on Android platform.
  
-### Usages
+### How to Usages
+```Android
+
 private CompassHelper mCompassHelper;
 
 @Override
@@ -26,3 +28,7 @@ protected void onStop() {
 public void onBearingValue(float f) {
  // Listen bearing value
 }
+
+```
+```Demo
+
