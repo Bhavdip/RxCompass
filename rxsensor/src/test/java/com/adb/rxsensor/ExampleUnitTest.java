@@ -1,4 +1,4 @@
-package com.adb.sensor;
+package com.adb.rxsensor;
 
 import org.junit.Test;
 

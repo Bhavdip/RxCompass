@@ -1,3 +1,12 @@
 <resources>
   <string name="app_name">RxAndroidCompass</string>
+  <string name="direction_n">N</string>
+  <string name="direction_e">E</string>
+  <string name="direction_s">S</string>
+  <string name="direction_w">W</string>
+  <string name="tag_compass_fragment">tag_compass_fragment</string>
+  <string name="formatstring_time_seconds">%d s</string>
+  <string name="formatstring_coordinate_dms">%d° %02d\' %04.1f\'\' %s</string>
+  <string name="formatstring_coordinate_decimal">%.6f°</string>
+  <string name="na">n/a</string>
 </resources>
