@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/RxCompass.iml" filepath="$PROJECT_DIR$/.idea/RxCompass.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/rxsensor/rxcompass.iml" filepath="$PROJECT_DIR$/rxsensor/rxcompass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rxsensor/rxsensor.iml" filepath="$PROJECT_DIR$/rxsensor/rxsensor.iml" />
     </modules>
   </component>
 </project>
