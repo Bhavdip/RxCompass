@@ -30,5 +30,3 @@ public void onBearingValue(float f) {
 }
 
 ```
-```Demo
-
