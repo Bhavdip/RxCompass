@@ -11,6 +11,7 @@ dependencies {
   
   implementation 'com.adb.rxsensor:compass:1.0'
 }
+```
 
 ```Android
 
