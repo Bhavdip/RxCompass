@@ -1,18 +1,9 @@
-# Created by .ignore support plugin (hsz.mobi)
-.gradle/
-.idea/
-README.md
-RxAndroidCompass.iml
-app/.gitignore
-app/app.iml
-app/libs/
-app/proguard-rules.pro
-app/src/
-build.gradle
+*.iml
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
 build/
-gradle.properties
-gradle/
-gradlew
-gradlew.bat
-local.properties
-settings.gradle
+/captures
+.externalNativeBuild
